@@ -1,0 +1,31 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --inspect index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NgocChinh17/nodejs.git"
+  },
+  "keywords": [
+    "iphone",
+    "iphone 6  ",
+    "iphone 7"
+  ],
+  "author": "apple",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NgocChinh17/nodejs/issues"
+  },
+  "homepage": "https://github.com/NgocChinh17/nodejs#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
